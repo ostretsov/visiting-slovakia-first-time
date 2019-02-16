@@ -8,4 +8,4 @@
 - Получение визы в Словакию.
 
 ### Полезные ресурсы
-- (http://slovakia.travel/en)
+- [http://slovakia.travel/en](http://slovakia.travel/en)
