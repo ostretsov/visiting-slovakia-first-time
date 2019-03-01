@@ -19,3 +19,6 @@ Poprad |	51,486 |	56,157 |	−8.32%
 
 ### Братислава
 Столица c населением ~430 000 человек.
+
+#### Полезные ссылки
+- [Братислава: что посмотреть](http://kontrakty.ua/article/132281?fbclid=IwAR3NYh21aYsrKTQmGIga5QiUAibhbKQHHAkaHxb_vaJND8bC3wwGAwnqIAg)
