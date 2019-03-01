@@ -22,3 +22,4 @@ Poprad |	51,486 |	56,157 |	−8.32%
 
 #### Полезные ссылки
 - [Братислава: что посмотреть в словацкой столице](http://kontrakty.ua/article/132281?fbclid=IwAR3NYh21aYsrKTQmGIga5QiUAibhbKQHHAkaHxb_vaJND8bC3wwGAwnqIAg)
+- [Bratislava CARD](http://card.visitbratislava.com/)
